@@ -1,5 +1,10 @@
 package creational;
 
+/**
+ * Abstract Factory
+ *
+ * 추상 팩터리 패턴
+ */
 public class AbstractFactory {
 
     public static void main(String[] args) {

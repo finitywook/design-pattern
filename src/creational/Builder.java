@@ -1,5 +1,10 @@
 package creational;
 
+/**
+ * Builder
+ *
+ * 빌더 패턴
+ */
 public class Builder {
 
     public static void main(String[] args) {

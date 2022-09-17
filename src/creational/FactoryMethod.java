@@ -1,5 +1,10 @@
 package creational;
 
+/**
+ * Factory Method
+ *
+ * 팩터리 메서드 패턴
+ */
 public class FactoryMethod {
 
     public static void main(String[] args) {
