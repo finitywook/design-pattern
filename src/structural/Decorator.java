@@ -1,5 +1,10 @@
 package structural;
 
+/**
+ * Decorator
+ *
+ * 데코레이터 패턴
+ */
 public class Decorator {
 
     public static void main(String[] args) {
